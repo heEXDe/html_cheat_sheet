@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+  text-align: center
+}
+td {
+  text-align: center
+}
+p.cls_bold {
+  font-weight: bold
+}
